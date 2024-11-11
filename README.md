@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend-developer
 ------------------
 
-I'm web enthusiast. I discovered coding after a few years after a law degree and now it's my main passion. I am constantly learning, and my first goal - become a fullstack-developer.
+I'm web enthusiast. I discovered coding a few years after a law degree and now it's my main passion. I am constantly learning, and my first goal - become a fullstack-developer.
 
 *   🌍  I'm based in Russia
 *   ✉️  You can contact me at [somewaystodo@yandex.ru](mailto:somewaystodo@yandex.ru)
