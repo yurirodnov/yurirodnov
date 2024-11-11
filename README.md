@@ -9,7 +9,7 @@
 
 <div class="header">
     <h1>Yuri Rodnov</h1>
-    <p> Hi! Im frontend developer</p>
+    <p> Hi! Welcome to my github-page.</p>
 </div>
 
 </body>
