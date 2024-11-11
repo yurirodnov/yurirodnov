@@ -16,11 +16,6 @@ I'm web enthusiast. I discovered coding after a few years after law degree and n
                     </p>
                     
 
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://www.github.com/yurirodnov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
