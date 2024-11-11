@@ -8,7 +8,7 @@ I'm web enthusiast. I discovered coding after a few years after a law degree and
 
 *   🌍  I'm based in Russia
 *   ✉️  You can contact me at [somewaystodo@yandex.ru](mailto:somewaystodo@yandex.ru)
-*   🧠  I'm learning Express, Svelte, Python
+*   🧠  I'm learning Express, Svelte, Python and another web technologies
 
 ### Skills 
 <p align="left">
